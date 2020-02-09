@@ -1,0 +1,66 @@
+{
+    "stock": [
+      {
+        "id": 1,
+        "amount": 3
+      },
+      {
+        "id": 2,
+        "amount": 5
+      },
+      {
+        "id": 3,
+        "amount": 2
+      },
+      {
+        "id": 4,
+        "amount": 1
+      },
+      {
+        "id": 5,
+        "amount": 5
+      },
+      {
+        "id": 6,
+        "amount": 10
+      }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "title": "Notebook Lenovo",
+        "price": 2399.9,
+        "image": "https://m.media-amazon.com/images/I/61-wz0UOqFL._AC_UL320_ML3_.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Iphone XR",
+        "price": 3699.9,
+        "image": "https://m.media-amazon.com/images/I/51gCZ+oYUDL._AC_UL205_ML3_.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Iphone 11 Pro Max",
+        "price": 5999.9,
+        "image": "https://m.media-amazon.com/images/I/81mxun+6pEL._AC_UL205_ML3_.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Notebook Lenovo",
+        "price": 2399.9,
+        "image": "https://m.media-amazon.com/images/I/61-wz0UOqFL._AC_UL320_ML3_.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Playstation 4",
+        "price": 1669.9,
+        "image": "https://m.media-amazon.com/images/I/715RBdgZtHL._AC_UY218_ML3_.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Xbox One",
+        "price": 1399.9,
+        "image": "https://m.media-amazon.com/images/I/61q71cXyWeL._AC_UY218_ML3_.jpg"
+      }
+    ]
+  }
